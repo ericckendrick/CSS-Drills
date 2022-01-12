@@ -1,0 +1,80 @@
+body {
+  font-family: Roboto, Helevetica, sans-serif;
+  background-color: rgb(227, 227, 227);
+}
+h2,
+p,
+.readme-wrapper {
+  text-align: center;
+}
+a {
+  color: rgb(25, 60, 136);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(235, 105, 58);
+  font-weight: bold;
+  cursor: pointer;
+}
+span {
+  color: rgb(97, 29, 4);
+  font-weight: bolder;
+}
+#briantitle {
+  font-style: italic;
+}
+.boxes {
+  display: block;
+  width: 30em;
+  margin: 2rem;
+  padding: 0.5rem;
+  border: 1px solid rgb(47, 47, 174);
+  border-radius: 1rem;
+}
+#box1 {
+  background-color: rgb(162, 198, 199);
+}
+#box2 {
+  background-color: cornsilk;
+}
+#box3 {
+  background-color: rgb(165, 179, 163);
+}
+#box4 {
+  background-color: rgb(211, 154, 136);
+}
+.boxheader {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 6.5em;
+  background-color: rgb(230, 170, 170);
+}
+#show1 {
+  color: rgb(225, 170, 33);
+}
+#show2 {
+  color: rgb(55, 2, 92);
+}
+#show3 {
+  color: rgb(81, 91, 101);
+}
+#show4 {
+  color: rgb(87, 4, 4);
+}
+#show5 {
+  color: rgb(23, 23, 96);
+}
+ul {
+  color: rgb(8, 8, 94);
+}
+.star {
+  color: rgb(179, 102, 26);
+}
+#wars {
+  color: steelblue;
+}
+.lists {
+  border: 2px solid black;
+}
